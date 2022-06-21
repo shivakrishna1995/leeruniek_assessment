@@ -9,4 +9,5 @@ Yarn: https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable
 Once done installing, type bellow commands on the project root directory,
 
 yarn install
+
 yarn dev
