@@ -1,6 +1,7 @@
 # leeruniek_assessment
 
-Required NodeJs, Yarn
+Required NodeJs, Yarn.
+
 NodeJS: https://nodejs.org/en/
 Yarn: https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable
 
