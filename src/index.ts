@@ -1,8 +1,8 @@
 require("dotenv").config();
 import express from "express";
-import GradeRoutes from "./routes/grade";
+import GradeRoutes from "./routes/grades";
 import PupilRoutes from "./routes/pupil";
-import ScoreRoutes from "./routes/score";
+import ScoreRoutes from "./routes/scores";
 
 const NODE_APP_PORT = process.env.NODE_APP_PORT || 3000;
 const app = express();
